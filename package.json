@@ -1,0 +1,17 @@
+{
+  "name": "thalamaus.io",
+  "version": "0.0.1",
+  "description": "IOT connector for DIY sensors/IOT and AWS Lambda/Echo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IOT",
+    "Echo",
+    "Lambda",
+    "Alexa"
+  ],
+  "author": "Keith Chester <kchester@gmail.com>",
+  "license": "MIT"
+}
