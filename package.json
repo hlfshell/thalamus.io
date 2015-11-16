@@ -1,5 +1,5 @@
 {
-  "name": "thalamaus.io",
+  "name": "thalamus.io",
   "version": "0.0.1",
   "description": "IOT connector for DIY sensors/IOT and AWS Lambda/Echo",
   "main": "index.js",
